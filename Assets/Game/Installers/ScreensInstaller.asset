@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538cd6ab7272491ba6793dea95d1dfa0, type: 3}
+  m_Name: ScreensInstaller
+  m_EditorClassIdentifier: 
+  _mainUiCanvasPrefab: {fileID: -4557754636081367853, guid: 5992cfbf94c79af4ab0123c6c69620d4, type: 3}
+  _loadingScreenPrefab: {fileID: 4173164833423636417, guid: feda3ce4bdc629b4a80380fa6f98e999, type: 3}
+  _screenPrefabs:
+  - {fileID: 3448747643725807905, guid: d3bb6a28aa886f648a667fd683df640b, type: 3}
